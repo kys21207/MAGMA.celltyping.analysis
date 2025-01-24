@@ -8,6 +8,7 @@ Run library(MAGMA.Celltyping) in R
 Extract and install MAGMA
 Set the path to the MAGMA executable in R
 library(MAGMA.Celltyping)
-set_magma_path("/path/to/magma")
+magma_install()
+
 
 
